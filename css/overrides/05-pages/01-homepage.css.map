@@ -1,0 +1,1 @@
+{"version":3,"sources":["overrides/05-pages/01-homepage.scss"],"names":[],"mappings":"AAAA,kBACE,oBAAA,AACA,oBADA,AACA,aAAA,4BAAA,AACA,6BADA,AACA,0BADA,AACA,sBAAA,gBAAiB,CAClB","file":"01-homepage.css","sourcesContent":[".layout-container {\n  display: flex;\n  flex-direction: column;\n  min-height: 100vh;\n}\n"]}
